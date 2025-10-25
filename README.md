@@ -1,3 +1,7 @@
+**$${\color{red}\text{MYL's NOTE}}$$**
+- This is a temporary fork created to fix an urgent build issue on macOS (for the University of Toledo team only, **NOT FOR MYL**).
+- MYL understands that the master branch in the original repository is still under development and fully respects any improvements made there.
+
 # ifscube
 
 A set of python scripts and functions to analyse and process integral
